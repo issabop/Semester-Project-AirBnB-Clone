@@ -1,0 +1,12 @@
+.categories {
+    display: flex;
+    overflow-x: auto;
+    padding: 10px;
+  }
+  .categories button {
+    margin-right: 10px;
+  }
+  .categories .active {
+    font-weight: bold;
+    border-bottom: 2px solid #000;
+  }
